@@ -26,7 +26,7 @@ Example Heatmap:
 
 ## 🛠️ How to Run
 Open in Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/pneumonia-detection/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KhushiTripathi21/pneumonia-detection/blob/main/notebook.ipynb)
 
 Steps:
 1. Upload your `kaggle.json` (for dataset download).
